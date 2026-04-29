@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Glass Dark
+Description=A dark frosted-glass login theme for KDE Plasma 6. Features a live clock, user list with avatars, session selector, and power menu.
+Author=SDDM Plasma 6 Guide
+AuthorEmail=example@example.com
+License=MIT
+Type=sddm-theme
+Version=1.0.0
+Website=https://github.com/yourname/sddm-plasma6-theme-guide
+ScreenShot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
