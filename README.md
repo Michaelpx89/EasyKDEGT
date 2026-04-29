@@ -52,7 +52,7 @@ sddm --version
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/yourname/sddm-plasma6-theme-guide
+git clone https://github.com/Michaelpx89/EasyKDEGT/sddm-plasma6-theme-guide
 cd sddm-plasma6-theme-guide
 
 # 2. Copy the example theme to the SDDM themes directory
